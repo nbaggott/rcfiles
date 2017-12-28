@@ -1,0 +1,5 @@
+alias d=docker
+alias dc="docker container"
+alias ds="docker start"
+alias dr="docker run"
+
